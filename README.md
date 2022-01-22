@@ -3,16 +3,17 @@
 
  This project is a CNPJ code searcher made with React. It brings all the information from  a National Registry of Legal Entities, showing information from the address, Partners, activities etc. <br>
  This project are made with a API called ViaCEP. You can access it <a href="https://viacep.com.br/"> here </a> 
- 
-## Images from the project
 
+## Images from the project
   <p align="center">
     <img src="https://github.com/gpessoni/Search-CEP-React/blob/main/Images%20from%20Project/1.PNG?raw=true">
 </p>    
 <hr>
+
   <p align="center">
     <img src="https://github.com/gpessoni/Search-CEP-React/blob/main/Images%20from%20Project/2.PNG?raw=true">
 </p> 
+
 <br><br>
 
 
