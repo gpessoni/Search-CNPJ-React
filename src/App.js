@@ -54,14 +54,18 @@ function App() {
           <span>
             Cidade: {cnpj.municipio}, {cnpj.uf}
           </span>
+          <br/>
         
-        </main>
       
         
-      )}  <br/>  <br/>
-      <main className="main">
-      <span align="center"><br/>Atividades Principais: {cnpj.atividade_principal[0].text}</span>
-      </main>
+          
+          <span align="center"><br/>Atividades Principais: {cnpj.atividade_principal[0].text}</span>
+          </main>
+          ) 
+        }
+       
+      
+    
     </div>
   );
 }
