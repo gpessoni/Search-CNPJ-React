@@ -6,12 +6,12 @@
 
 ## Images from the project
   <p align="center">
-    <img src="https://github.com/gpessoni/Search-CEP-React/blob/main/Images%20from%20Project/1.PNG?raw=true">
+    <img src="https://github.com/gpessoni/Search-CNPJ-React/blob/main/Images%20from%20project/1.PNG?raw=true">
 </p>    
 <hr>
 
   <p align="center">
-    <img src="https://github.com/gpessoni/Search-CEP-React/blob/main/Images%20from%20Project/2.PNG?raw=true">
+    <img src="https://github.com/gpessoni/Search-CNPJ-React/blob/main/Images%20from%20project/2.PNG?raw=true">
 </p> 
 
 <br><br>
