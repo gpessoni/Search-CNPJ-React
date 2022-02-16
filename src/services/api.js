@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 const api = axios.create ({
-baseURL: "https://viacep.com.br/ws/"
+baseURL: "https://receitaws.com.br/v1/cnpj/"
 });
 
 export default api;
